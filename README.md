@@ -21,4 +21,5 @@ Gendoo Lab: Data Analyst Intern, developing a GUI for STEM program analysis.
 Technology: Passionate about AI, cloud computing, and tech innovation.
 Sports: Regular football and basketball player, with a love for horse riding and gym activities.
 Hobbies: Avid reader of epic fantasy novels and enjoy keeping up with tech news.
-Feel free to explore my work and connect with me on LinkedIn.
+Feel free to explore my work and connect with me on [LinkedIn](https://linkedin.com/in/ausuleiman99)
+.
