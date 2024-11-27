@@ -7,15 +7,16 @@ Cloud Platforms & Docker: Experience with AWS and managing Docker containerized 
 API Development: Developing and optimising RESTful APIs and working with databases like PostgreSQL and MongoDB.
 AI & Machine Learning: Integrating OpenAI APIs for interview feedback and NLP applications.
 Notable Projects
-Job Trackr: A full-stack web app for tracking job applications, featuring AI-powered interview feedback.
-Ask.IT: A Q&A forum built with Django and Vue, with a CI/CD pipeline implemented using GitLab and Docker.
+Job Trackr
+Ask.IT
+
 💡 About Me
 Education: BSc in Computer Science (2:1) from the University of Birmingham.
 Professional Experience:
 TELUS Digital: Enhanced digital maps through data analysis.
 TIMA Agency: Software Engineering Intern, building a social media aggregation platform using Django and Python.
 Gendoo Lab: Data Analyst Intern, developing a GUI for STEM program analysis.
-Proficient in Python, Django, Vue, Docker, PostgreSQL, and R.
+
 🌟 Interests
 Technology: Passionate about AI, cloud computing, and tech innovation.
 Sports: Regular football and basketball player, with a love for horse riding and gym activities.
